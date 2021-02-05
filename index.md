@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -19,7 +18,6 @@
                      <p class="lead mb-5">Hello Everyone! :)</p>
                     <p class="lead mb-5"> I am a Grace Hopper Scholar who has a strong record of experience and proven ability to provide analytical insights to drive improvements and business growth. I have a proficiency in handling projects from core to completion with 3+ years of experience as a Marketing Executive and Analyst. My interest for visualizing data and creating insightful stories, along with inclination towards mathematics and managements that motivates me to work in the field of analytics. I am a conscientious person who pays attention to detail and is highly organized. I prefer being around and work with people as it motivates me and makes me happy. I consider myself a tactile learner as I learn the best by doing a hands-on activity. </p>
                     <p class="lead mb-5"> I am currently a Master's student at San Jose State University. I have an undergraduate in computer science and MBA in marketing and finance.</p>
-               </div>
                </div>
             </section>
             <hr class="m-0" />
