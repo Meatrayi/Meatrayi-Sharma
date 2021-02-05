@@ -219,7 +219,7 @@
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                                  <strong>Operations: </strong> Lean Six Sigma Green Belt (CSSGB), Forecasting, Inventory Modeling, Stocktakes Process Improvement, Supply chain logistics, Distribution network design in a SC, Decision Tree Analysis, Aggregate Planning, Pricing and Revenue Management
+                                  <strong>Operations: </strong> Lean Six Sigma, Forecasting, Inventory Modeling, Stocktakes Process Improvement, Supply chain logistics, Distribution network design in a SC, Decision Tree Analysis, Aggregate Planning, Pricing and Revenue Management
                                 </li>
                           </ul>
                         </div>
@@ -269,7 +269,7 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>BUS 235A - Introduction to Business Analytics:</strong></h3>
                           <p>Applied the techniques of business analytics to explore, visualize, and analyze a health insurance data set. The project aimed to find a correlation between personal medical expenses and different factors such as such as BMI, age, smoking habits, children, sex and region, and compare them. A linear regression model was created using the prominent attributes as predictors to predict medical expenses. </p>
-                          <p> <strong> Tools used: </strong> R, Excel, MS Word </p> 
+                          <p> <strong> Tools used: </strong> R, MS Excel, MS Word </p> 
                       </div>
                     </div>
                   <div class="d-flex flex-column flex-md-row justify-content-between">
@@ -277,6 +277,7 @@
                             <h3 class="mb-0"><strong>ISE 213 - Principles of Engineering Management:</strong></h3>
                             <p> Performed project management simulation to learn how a project manager successfully completes a project while keeping a balance between the project’s overall scope, time, and budget.</p>
                               <p>For the simulation, acted as a senior project manager for a printing company to plan out resources and make decisions every week keeping in mind the target scope, target schedule, and target cost for each of the 6 scenarios. The results of each scenario suggested how different management styles and approaches can affect the outcome of the project.</p>
+                                 <p> <strong> Tools used: </strong> Harvard Project Management Simulation, MS Excel, MS Word </p> 
                     </div>
                     </div>
                                       <div class="d-flex flex-column flex-md-row justify-content-between">
@@ -290,12 +291,14 @@
                               <li>Performed Failure Mode and Effect Analysis (FMEA) to identify the relative impact of different failures and to determine the portion of the process that needs change.</li>
                              <li>Applied 5S (Sort, Set in Order, Shine, Standardize, Sustain) technique to improve productivity and efficiency by eliminating waste.</li>
                                   <li>Performed hypothesis testing using paired t-test.</li></ul></p>
+                               <p> <strong> Tools used: </strong> MS Excel, MS Word, Fishbone Diagram, Pareto Chart </p>    
                     </div>
                     </div>
                   <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>ISE 245- Advanced Supply Chain Management:</strong></h3>
                             <p> Performed in-depth study of the supply chain strategies employed by Apple Inc.to understand the possible reasons that make Apple a world leader in managing its supply chain. In the project we highlighted efficient ways and changes Apple needs to implement to improve the responsiveness and efficiency in its strategic fit, in times of COVID-19 - a global pandemic. After examining the company’s supply chain strategy it was concluded that the supply chain of the company is overdependent on one particular geographical location, which if under a bottleneck, may starve the entire supply chain process, creating havoc in the system.</p>
+                                 <p> <strong> Tools used: </strong> MS Excel (Solver), MS Word </p> 
                        </div>
                     </div>
     <div class="d-flex flex-column flex-md-row justify-content-between">
@@ -308,6 +311,7 @@
                             <li>Designed the sustainability metrics of the project.</li>
                             <li> Checked for the reliability, maintainability, availability, usability of the project.</li>
                             </ul>
+                                 <p> <strong> Tools used: </strong> MS Excel, MS Word </p> 
                             </div>
                     </div>
                 </div>
@@ -325,5 +329,5 @@
                         <li>AMCAT Certified Data Processing Specialist </li>
                     </ul>
                 </div>
-            </section>
-    </html>
+            </section> 
+</html>
