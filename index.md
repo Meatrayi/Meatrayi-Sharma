@@ -316,6 +316,8 @@
                 <div class="resume-section-content">
                     <h2 class="mb-5">Certifications</h2>
                     <ul class="fa-ul mb-0">
+                        <li> IBM Data Analytics Professional Certificate
+                            </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                            Six Sigma Green Belt (CSSGB)
