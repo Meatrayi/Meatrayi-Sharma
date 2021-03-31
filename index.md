@@ -263,7 +263,7 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>BUS 235C - Data Mining for Business Analytics:</strong></h3>
                           <p>Applied the techniques of Business Analytics to explore, visualize, and analyze a health insurance data set. The project aimed to find a correlation between personal medical expenses and different factors such as such as BMI, age, smoking habits, children, sex and region, and compare them. A linear regression model was created using the prominent attributes as predictors to predict medical expenses.</p>
-                          <p> <strong> Tools used: </strong> R, MS Excel, MS Word </p><a href="https://github.com/Meatrayi/PREDICTING-HOTEL-BOOKING-CANCELLATION"> Github Link</a><p> Github Link</p>
+                          <p> <strong> Tools used: </strong> R, MS Excel, MS Word </p><a href="https://github.com/Meatrayi/PREDICTING-HOTEL-BOOKING-CANCELLATION"> Github Link</a>
                       </div>
                     </div>
                   <div class="d-flex flex-column flex-md-row justify-content-between">
