@@ -298,7 +298,7 @@
                   <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>ISE 245- Advanced Supply Chain Management:</strong></h3>
-                            <p> Performed in-depth study of the supply chain strategies employed by Apple Inc.to understand the possible reasons that make Apple a world leader in managing its supply chain. In the project we highlighted efficient ways and changes Apple needs to implement to improve the responsiveness and efficiency in its strategic fit, in times of COVID-19 - a global pandemic. After examining the company’s supply chain strategy it was concluded that the supply chain of the company is overdependent on one particular geographical location, which if under a bottleneck, may starve the entire supply chain process, creating havoc in the system.</p>
+                            <p> Performed in-depth study of the supply chain strategies employed by Apple Inc. to understand the possible reasons that make Apple a world leader in managing its supply chain. In the project we highlighted efficient ways and changes Apple needs to implement to improve the responsiveness and efficiency in its strategic fit, in times of COVID-19 - a global pandemic. After examining the company’s supply chain strategy it was concluded that the supply chain of the company is overdependent on one particular geographical location, which if under a bottleneck, may starve the entire supply chain process, creating havoc in the system.</p>
                                  <p> <strong> Tools used: </strong> MS Excel (Solver), MS Word </p> 
                        </div>
                     </div>
