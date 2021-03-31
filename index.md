@@ -230,7 +230,7 @@
                             <h3 class="mb-0">San Jose State University</h3>
                             <div class="subheading mb-3">Master of Science</div>
                             <div>Engineering Management</div>
-                            <p>GPA: 3.92</p>
+                            <p>GPA: 3.93</p>
                          </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2019 - Present</span></div>
                     </div>
@@ -261,6 +261,13 @@
                     <h2 class="mb-5">Projects</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
+                            <h3 class="mb-0"><strong>BUS 235C - Data Mining for Business Analytics:</strong></h3>
+                          <p>Applied the techniques of Business Analytics to explore, visualize, and analyze a health insurance data set. The project aimed to find a correlation between personal medical expenses and different factors such as such as BMI, age, smoking habits, children, sex and region, and compare them. A linear regression model was created using the prominent attributes as predictors to predict medical expenses.</p>
+                          <p> <strong> Tools used: </strong> R, MS Excel, MS Word </p><a href="https://github.com/Meatrayi/PREDICTING-HOTEL-BOOKING-CANCELLATION"> Github Link</a><p> Github Link</p>
+                      </div>
+                    </div>
+                  <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>BUS 235A - Introduction to Business Analytics:</strong></h3>
                           <p>Applied the techniques of business analytics to explore, visualize, and analyze a health insurance data set. The project aimed to find a correlation between personal medical expenses and different factors such as such as BMI, age, smoking habits, children, sex and region, and compare them. A linear regression model was created using the prominent attributes as predictors to predict medical expenses. </p>
                           <p> <strong> Tools used: </strong> R, MS Excel, MS Word </p> 
@@ -274,7 +281,7 @@
                                  <p> <strong> Tools used: </strong> Harvard Project Management Simulation, MS Excel, MS Word </p> 
                     </div>
                     </div>
-                                      <div class="d-flex flex-column flex-md-row justify-content-between">
+                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>ISE 250 - Leading the Six Sigma Improvement:</strong></h3>
                             <p> Applied Six Sigma Principles to resolve maintenance work order service time in an Apartment.</p>
