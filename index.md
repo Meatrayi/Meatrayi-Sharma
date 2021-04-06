@@ -197,11 +197,11 @@
                             <ul class="fa-ul mb-0">
                                 <li>
                                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                                  <strong> Languages:</strong> MySQL (Workbench, SQLiteStudio), Python, HTML
+                                  <strong> Languages:</strong> MySQL (Workbench, SQLiteStudio), Python, R (data analytics), HTML
                               </li>
                                 <li>
                                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                                  <strong> Tools: </strong> Tableau, R (data analytics), MS Excel, SPSS, Microsoft Office, ANOVA, MS PowerPoint, Power BI, Salesforce
+                                  <strong> Tools: </strong> Tableau, IBM Cognos, MS Excel, SPSS, Microsoft Office, ANOVA, MS PowerPoint, Power BI, Salesforce
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="fas fa-check"></i></span>
