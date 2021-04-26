@@ -40,7 +40,7 @@
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
-                                    <p> Lead the marketing team to develop a communication plan for the project named AI School that will provide certified training programs.</p>
+                                    <p> Led the marketing team to develop a communication plan for the project named AI School that will provide certified training programs.</p>
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
