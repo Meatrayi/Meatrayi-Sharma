@@ -230,7 +230,7 @@
                             <h3 class="mb-0">San Jose State University</h3>
                             <div class="subheading mb-3">Master of Science</div>
                             <div>Engineering Management</div>
-                            <p>GPA: 3.93</p>
+                            <p>GPA: 3.93/4.00</p>
                          </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2019 - Present</span></div>
                     </div>
@@ -239,7 +239,7 @@
                             <h3 class="mb-0">Malaviya National Institute of Technology</h3>
                             <div class="subheading mb-3">Master of Business Administration</div>
                             <div>Finance and Marketing</div>
-                            <p>GPA: 9.08 (Second Rank)</p>
+                            <p>GPA: 9.08/10.00 (Second Rank)</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2015 - June 2017</span></div>
                     </div>
