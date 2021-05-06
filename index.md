@@ -56,7 +56,7 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">MARKETING EXECUTIVE AND ANALYST</h3>
                             <div class="subheading mb-3">Dr B Lal Clinical Laboratory Pvt. Ltd., Jaipur, IN</div>
-                             <div class="flex-shrink-0"><span class="text-primary">June 2017 - April 2018</span></div>
+                             <div class="flex-shrink-0"><span class="text-primary">June 2017 - April 2019</span></div>
                             <ol class="fa-ul mb-0">
                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
