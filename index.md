@@ -201,7 +201,7 @@
                               </li>
                                 <li>
                                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                                  <strong> Tools: </strong> Tableau, IBM Cognos, MS Excel, SPSS, Microsoft Office, ANOVA, MS PowerPoint, Power BI, Salesforce
+                                  <strong> Tools: </strong> Tableau, IBM Cognos, MS Excel, SPSS, Microsoft Office, ANOVA, MS PowerPoint, Power BI, Salesforce, ZOHO CRM
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="fas fa-check"></i></span>
@@ -209,7 +209,7 @@
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                                   <strong> Project Management:</strong> Agile, Scrum, JIRA, Jile, UML Sequence Diagram, Lucidchart, Kanban, SAFe, Nexus Framework
+                                   <strong> Project Management:</strong> Agile, Scrum, JIRA, Jile, Lucidchart, Kanban, SAFe, Nexus Framework
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="fas fa-check"></i></span>
@@ -232,7 +232,7 @@
                             <div>Engineering Management</div>
                             <p>GPA: 3.93/4.00</p>
                          </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2019 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 2019 - May 2021</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
