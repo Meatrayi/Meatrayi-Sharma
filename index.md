@@ -227,27 +227,24 @@
                     <h2 class="mb-5">Education</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">San Jose State University</h3>
-                            <div class="subheading mb-3">Master of Science</div>
-                            <div>Engineering Management</div>
+                            <h3 class="mb-0"><strong>San Jose State University</strong></h3>
+                            <div class="subheading mb-3">Master of Science in Engineering Management</div>
                             <p>GPA: 3.93/4.00</p>
                          </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2019 - May 2021</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Malaviya National Institute of Technology</h3>
-                            <div class="subheading mb-3">Master of Business Administration</div>
-                            <div>Finance and Marketing</div>
+                            <h3 class="mb-0"><strong>Malaviya National Institute of Technology</strong></h3>
+                            <div class="subheading mb-3">Master of Business Administration in Finance and Marketing</div>
                             <p>GPA: 9.08/10.00 (Second Rank)</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2015 - June 2017</span></div>
                     </div>
                   <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Rajasthan Technical University</h3>
-                            <div class="subheading mb-3">Bachelor of Technology</div>
-                            <div>Computer Science and Engineering</div>
+                            <h3 class="mb-0"><strong>Rajasthan Technical University</strong></h3>
+                            <div class="subheading mb-3">Bachelor of Technology in Computer Science and Engineering</div>
                             <p>Result: 77% (Honors)</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">September 2009 - July 2013</span></div>
