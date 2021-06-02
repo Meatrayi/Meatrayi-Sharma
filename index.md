@@ -10,7 +10,7 @@
                  <p><a href="mailto:meatrayi@gmail.com"> Email: meatrayi@gmail.com</a>/<a href="https://www.linkedin.com/in/meatrayi-sharma-a662b859/"> LinkedIn</a></p>
                      <p class="lead mb-5">Hello Everyone! :)</p>
                     <p class="lead mb-5"> I am a Grace Hopper Scholar who has a strong record of experience and proven ability to provide analytical insights to drive improvements and business growth. I have a proficiency in handling projects from core to completion with 3+ years of experience as a Marketing Executive and Analyst. My interest for visualizing data and creating insightful stories, along with inclination towards mathematics and managements motivates me to work in the field of analytics. I am a conscientious person who pays attention to detail and is highly organized. I prefer being around and work with people as it motivates me and makes me happy. I consider myself a tactile learner as I learn the best by doing a hands-on activity. </p>
-                    <p class="lead mb-5"> I am currently a Master's student at San Jose State University. I have an undergraduate in computer science and MBA in marketing and finance.</p>
+                    <p class="lead mb-5"> I am a Master's graduate from San Jose State University. I have an undergraduate in computer science and MBA in Marketing and Finance.</p>
                </div>
             </section>
             <hr class="m-0" />
@@ -24,8 +24,12 @@
                             <ol class="fa-ul mb-0">
                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
-                                  <p><strong>Analysis and KPI reporting:</strong> Worked in collaboration with different teams to design and build marketing reports.</p>
+                                  <p> Created and developed targeted email campaigns to segments of the firm’s email list; increased open rates by 3%.</p>
                                 </li>
+                                <li>
+                                    <span class="fa-li"><i class="far fa-star"></i></span>
+                                  <p>Direct project management initiatives from conceptualization through development, execution, and management using ZOHO CRM.</p>
+                                </li>    
                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
                                   <p><strong>Marketing Operations:</strong> Worked cross-functionally with Marketing,Data,and Technology teams to document,implement and improve marketing strategies.</p>
@@ -40,7 +44,7 @@
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
-                                    <p> Led the marketing team to develop a communication plan for the project named AI School that will provide certified training programs.</p>
+                                    <p>Led the marketing team in developing a communication plan for the project named ‘AI School’ that aimed at providing certified training programs.</p>
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
@@ -58,9 +62,13 @@
                             <div class="subheading mb-3">Dr B Lal Clinical Laboratory Pvt. Ltd., Jaipur, IN</div>
                              <div class="flex-shrink-0"><span class="text-primary">June 2017 - April 2019</span></div>
                             <ol class="fa-ul mb-0">
-                                <li>
+                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
-                                  <p><strong> Digital Marketing:</strong> Assisted supervisors in designing and creating digital material content to implement social media strategy. Also, developed content for various Web Pages of the company. Closely managed the documents related to marketing, sales, distribution of marketing materials across all 28 centers of the company in Rajasthan.</p>
+                                    <p>Analyzed the company’s pricing, advertising, and distribution data and identified seasonal trends and white space by integrating consumer insights.</p>
+                                </li>
+                                    <li>
+                                    <span class="fa-li"><i class="far fa-star"></i></span>
+                                  <p>Led the first major effort to A/B test the company’s social media page and optimize it for customer acquisition.</p>
                                 </li>
                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
@@ -93,7 +101,7 @@
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">OPERATIONS MANAGEMENT INTERN</h3>
-                            <div class="subheading mb-3">Bosch, Jaipur, IN</div>
+                            <div class="subheading mb-3">Robert Bosch GmbH, Jaipur, IN</div>
                             <div class="flex-shrink-0"><span class="text-primary">June 2016 - August 2016</span></div>
                              <ol class="fa-ul mb-0">
                                 <li>
@@ -229,7 +237,7 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>San Jose State University</strong></h3>
                             <div class="subheading mb-3">Master of Science in Engineering Management</div>
-                            <p>GPA: 3.93/4.00</p>
+                            <p>GPA: 3.94/4.00</p>
                          </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2019 - May 2021</span></div>
                     </div>
