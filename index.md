@@ -134,8 +134,8 @@
                         </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">WEB CONTENT SPECIALIST</h3>
-                            <div class="subheading mb-3"><strong>Exim Infotek Pvt. Ltd., Jaipur, IN</strong></div>
+                            <h3 class="mb-0"><strong>WEB CONTENT SPECIALIST</strong></h3>
+                            <div class="subheading mb-3">Exim Infotek Pvt. Ltd., Jaipur, IN</div>
                             <div class="flex-shrink-0"><span class="text-primary">July 2014 - July 2015</span></div>
                             <ol class="fa-ul mb-0">
                                 <li>
