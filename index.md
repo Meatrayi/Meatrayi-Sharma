@@ -18,7 +18,7 @@
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Experience</h2>
-                      <h3 class="mb-0">DIGITAL MARKETING ANALYST INTERN </h3>
+                      <h3 class="mb-0"><strong> DIGITAL MARKETING ANALYST INTERN </strong> </h3>
                             <div class="subheading mb-3">AI Australia, San Francisco, USA</div>
                        <div class="flex-shrink-0"><span class="text-primary">Sept 2020 - Dec 2020</span></div>
                             <ol class="fa-ul mb-0">
@@ -58,7 +58,7 @@
                         </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">MARKETING EXECUTIVE AND ANALYST</h3>
+                            <h3 class="mb-0"><strong>MARKETING EXECUTIVE AND ANALYST</strong></h3>
                             <div class="subheading mb-3">Dr B Lal Clinical Laboratory Pvt. Ltd., Jaipur, IN</div>
                              <div class="flex-shrink-0"><span class="text-primary">June 2017 - April 2019</span></div>
                             <ol class="fa-ul mb-0">
@@ -100,7 +100,7 @@
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">OPERATIONS MANAGEMENT INTERN</h3>
+                            <h3 class="mb-0"><strong>OPERATIONS MANAGEMENT INTERN</strong></h3>
                             <div class="subheading mb-3">Robert Bosch GmbH, Jaipur, IN</div>
                             <div class="flex-shrink-0"><span class="text-primary">June 2016 - August 2016</span></div>
                              <ol class="fa-ul mb-0">
@@ -135,7 +135,7 @@
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">WEB CONTENT SPECIALIST</h3>
-                            <div class="subheading mb-3">Exim Infotek Pvt. Ltd., Jaipur, IN</div>
+                            <div class="subheading mb-3"><strong>Exim Infotek Pvt. Ltd., Jaipur, IN</strong></div>
                             <div class="flex-shrink-0"><span class="text-primary">July 2014 - July 2015</span></div>
                             <ol class="fa-ul mb-0">
                                 <li>
@@ -167,7 +167,7 @@
                        </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">DIGITAL CONTENT WRITER AND SEO</h3>
+                            <h3 class="mb-0"><strong>DIGITAL CONTENT WRITER AND SEO</strong></h3>
                             <div class="subheading mb-3">Blink Team Technologies, Jaipur, IN</div>
                             <div class="flex-shrink-0"><span class="text-primary">August 2013 - June 2014</span></div>
                             <ol class="fa-ul mb-0">
@@ -241,6 +241,7 @@
                          </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2019 - May 2021</span></div>
                     </div>
+                        <p> </p>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>Malaviya National Institute of Technology</strong></h3>
@@ -249,6 +250,7 @@
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2015 - June 2017</span></div>
                     </div>
+                        <p> </p>
                   <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>Rajasthan Technical University</strong></h3>
@@ -269,6 +271,7 @@
                             <h3 class="mb-0"><strong>BUS 235C - Data Mining for Business Analytics:</strong></h3>
                           <p>Applied the techniques of Business Analytics to explore, visualize, and analyze a health insurance data set. The project aimed to find a correlation between personal medical expenses and different factors such as such as BMI, age, smoking habits, children, sex and region, and compare them. A linear regression model was created using the prominent attributes as predictors to predict medical expenses.</p>
                           <p> <strong> Tools used: </strong> R, MS Excel, MS Word </p><a href="https://github.com/Meatrayi/PREDICTING-HOTEL-BOOKING-CANCELLATION"> Github Link</a>
+                          <p> </p>
                       </div>
                     </div>
                           <div class="d-flex flex-column flex-md-row justify-content-between">
