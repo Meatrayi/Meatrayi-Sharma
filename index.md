@@ -273,9 +273,10 @@
                     </div>
                           <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0"><strong>ISE 298:Implemented machine learning techniques for Classification and Segmentation of customers for an online retail company.</strong></h3>
+                            <h3 class="mb-0"><strong>ISE 298:Implemented machine learning techniques for Classification and Segmentation of customers for an online retail company:</strong></h3>
                           <p>The project illustrated the importance and necessity of machine learning techniques to improve business strategies. In the project, the retail dataset was examined and the RFM model was implemented to perform customer segmentation. The clustering methods used in the project were K-means and Hierarchical clustering.</p>
                           <p> <strong> Tools used: </strong> Python, Tableau, MS Excel, MS Word </p><a href="https://github.com/Meatrayi/ONLINE-RETAIL/blob/main/Online_Retail_Project.ipynb"> Github Link</a>
+                          <p> </p>                                
                       </div>
                     </div>
                         
