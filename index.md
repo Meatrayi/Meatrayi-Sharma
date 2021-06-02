@@ -278,6 +278,7 @@
                           <p> <strong> Tools used: </strong> Python, Tableau, MS Excel, MS Word </p><a href="https://github.com/Meatrayi/ONLINE-RETAIL/blob/main/Online_Retail_Project.ipynb"> Github Link</a>
                       </div>
                     </div>
+                        
                   <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>BUS 235A - Introduction to Business Analytics:</strong></h3>
@@ -285,6 +286,7 @@
                           <p> <strong> Tools used: </strong> R, MS Excel, MS Word </p> 
                       </div>
                     </div>
+                        
                   <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0"><strong>ISE 213 - Principles of Engineering Management:</strong></h3>
