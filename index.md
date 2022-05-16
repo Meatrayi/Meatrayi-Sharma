@@ -45,8 +45,7 @@
                                 <li>
                                     <span class="fa-li"><i class="far fa-star"></i></span>
                                     <p> Assisted in session with business users and stakeholders to define project scope, identify business process flows, and determine whether any as-is and to-be proposed requirements are impacted by the new development efforts.</p>
-                                </li>
-                                <li>
+                                    </li>
                              <h3 class="mb-0"><strong> DIGITAL MARKETING ANALYST INTERN </strong> </h3>
                             <div class="subheading mb-3">AI Australia, San Francisco, USA</div>
                        <div class="flex-shrink-0"><span class="text-primary">Sept 2020 - Dec 2020</span></div>
