@@ -18,7 +18,36 @@
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Experience</h2>
-                      <h3 class="mb-0"><strong> DIGITAL MARKETING ANALYST INTERN </strong> </h3>
+                     <h3 class="mb-0"><strong> PROJECT MANAGER AND QUALITY ANALYST </strong> </h3>
+                            <div class="subheading mb-3">NYC Department of Information Technology & Telecommunication, New York, USA</div>
+                       <div class="flex-shrink-0"><span class="text-primary">Sept 2021 - Present</span></div>
+                            <ol class="fa-ul mb-0">
+                                <li>
+                                    <span class="fa-li"><i class="far fa-star"></i></span>
+                                  <p> Projects: NYC COVID testing and vaccination program, City of NY Emergency Housing Voucher (EHV) Program, COVID Test & Trace Project.</p>
+                                </li>
+                                <li>
+                                    <span class="fa-li"><i class="far fa-star"></i></span>
+                                  <p>Conducted and participated in test case reviews, requirement reviews, design reviews, and change control activities for different projects.</p>
+                                </li>    
+                                <li>
+                                    <span class="fa-li"><i class="far fa-star"></i></span>
+                                  <p>Works directly with the development team, answers questions related to acceptance criteria and ensures that work performed meets customer expectations.</p>
+                                </li>
+                                <li>
+                                    <span class="fa-li"><i class="far fa-star"></i></span>
+                                    <p>Involve in a seamless regression test process to include existing features and new features.</p>
+                                </li>
+                                <li>
+                                    <span class="fa-li"><i class="far fa-star"></i></span>
+                                    <p>Participates in scrum daily status and project status calls to provide accurate updates on deliverable timelines and status.</p>
+                                </li>
+                                <li>
+                                    <span class="fa-li"><i class="far fa-star"></i></span>
+                                    <p> Assisted in session with business users and stakeholders to define project scope, identify business process flows, and determine whether any as-is and to-be proposed requirements are impacted by the new development efforts.</p>
+                                </li>
+                                <li>
+                             <h3 class="mb-0"><strong> DIGITAL MARKETING ANALYST INTERN </strong> </h3>
                             <div class="subheading mb-3">AI Australia, San Francisco, USA</div>
                        <div class="flex-shrink-0"><span class="text-primary">Sept 2020 - Dec 2020</span></div>
                             <ol class="fa-ul mb-0">
@@ -341,11 +370,15 @@
                 <div class="resume-section-content">
                     <h2 class="mb-5">Certifications</h2>
                     <ul class="fa-ul mb-0">
-                        <li> IBM Data Analytics Professional Certificate
+                         <li> Certified Scrum Product Owner Certificate
+                            </li>
+                         <li> Scrum Fundamental Certified (SFC™)
+                            </li>
+                         <li> IBM Data Analytics Professional Certificate
                             </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                           Six Sigma Green Belt (CSSGB)
+                           Certified Six Sigma Green Belt (CSSGB)
                         </li>
                         <li>AMCAT Certified Data Processing Specialist </li>
                     </ul>
